@@ -68,7 +68,7 @@ exec "nohlsearch"
 
 noremap = nzz
 noremap - Nzz
-noremap <LEADER><LEADER> :nohlsearch<CR>
+noremap ,<CR> :nohlsearch<CR>
 
 " ===
 " === Restore Cursor Position
